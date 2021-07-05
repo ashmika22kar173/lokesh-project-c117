@@ -1,0 +1,20 @@
+.header {
+    background: grey;
+    margin-top: 0px;
+    font-size: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.headerdiv {
+    float: none;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.headerdiv2 {
+    font-size: 15px;
+    margin-top: 5px;
+}
